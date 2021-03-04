@@ -2,17 +2,14 @@
 <h3 align="center">A passionate web developer and technology from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
-- 👨‍ He/Him
 
-- 🔭 I’m currently working on [e-commerse project with PHP, Laravel and React](https://github.com/jmrona/ecommerce-backend-laravel)
+* 👨‍ He/Him
+* 🔭 I’m currently working on [e-commerse project with PHP, Laravel and React](https://github.com/jmrona/ecommerce-backend-laravel)
+* 🌱 I’m currently learning **Laravel and React**
+* 👨‍💻 All of my projects are available at [https://jmrona.vercel.app](https://jmrona.vercel.app)
+* 📫 How to reach me **jm_rona@hotmail.com**
+* 📄 Know about my experiences [My resume.pdf](https://github.com/jmrona/jmrona/files/6082899/Jose.Romero.Resume.v2.pdf)
 
-- 🌱 I’m currently learning **Laravel and React**
-
-- 👨‍💻 All of my projects are available at [https://jmrona.vercel.app](https://jmrona.vercel.app)
-
-- 📫 How to reach me **jm_rona@hotmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/194k72k6TinR2s_mfCRj4es4RM6z-Qz8g/view?usp=sharing](https://drive.google.com/file/d/194k72k6TinR2s_mfCRj4es4RM6z-Qz8g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
