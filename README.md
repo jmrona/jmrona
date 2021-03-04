@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
 
 * 👨‍ He/Him
-* 🔭 I’m currently working on [e-commerse project with PHP, Laravel and React](https://github.com/jmrona/ecommerce-backend-laravel)
+* 🔭 I’m currently working on [e-commerse project with Laravel and React](https://github.com/jmrona/ecommerce-backend-laravel)
 * 🌱 I’m currently learning **Laravel and React**
 * 👨‍💻 All of my projects are available at [https://jmrona.vercel.app](https://jmrona.vercel.app)
 * 📫 How to reach me **jm_rona@hotmail.com**
