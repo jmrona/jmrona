@@ -24,3 +24,5 @@
 <p><a href="https://www.buymeacoffee.com/jmrona"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jmrona" /></a></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrona&show_icons=true&locale=en&layout=compact" alt="jmrona" /></p>
+
+![](https://hit.yhype.me/github/profile?user_id=32115263)
