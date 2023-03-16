@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
 
 * 👨‍ He/Him
-* 🌱 I’m currently learning **Laravel and React**
+* 🌱 Learning **Python**
 * 👨‍💻 Working at [Forth](https://forthwithlife.co.uk)
-* 📫 How to reach me **jm_rona@hotmail.com**
+* 📫 Reach me **jm_rona@hotmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
