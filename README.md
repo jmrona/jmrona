@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Jose</h1>
-<h3 align="center">A passionate web developer and technology from Spain</h3>
+<h3 align="center">A passionate web developer from Spain living in the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
 
