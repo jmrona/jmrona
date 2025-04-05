@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
 
 * 👨‍ He/Him
-* 🌱 Learning **Python**
 * 👨‍💻 Working at [Forth](https://forthwithlife.co.uk)
 * 📫 Reach me **jm_rona@hotmail.com**
 
