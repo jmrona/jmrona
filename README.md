@@ -1,27 +1,59 @@
-<h1 align="center">Hi there👋, it's Jose</h1>
-<h3 align="center">A passionate web developer from Spain living in the UK</h3>
+<h1 align="center">Hi there 👋, I'm Jose</h1>
+<h3 align="center">Web Developer | Spain 🇪🇸 → UK 🇬🇧</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" />
+</p>
 
-* 👨‍ He/Him
-* 👨‍💻 Working at [Future Publishing]([https://forthwithlife.co.uk](https://futureplc.com/))
-* 📫 Reach me **jm_rona@hotmail.com**
+---
 
+## 👤 About Me
+- 👨‍💼 **Currently:** Working at [Future Publishing](https://futureplc.com/)
+- 💻 **Passionate:** Building beautiful and functional web experiences
+- 🌍 **Based:** Originally from Spain, now in the UK
+- 📫 **Contact:** jm_rona@hotmail.com
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Technologies & Skills
 <p align="left">
-<a href="https://linkedin.com/in/jmrona" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jmrona" height="30" width="40" /></a>
-<a href="https://instagram.com/jm_rona" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jm_rona" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <!-- Add more technologies relevant to your work -->
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrona&show_icons=true&locale=en&layout=compact" alt="jmrona" />
-  <!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmrona" alt="jmrona"/> -->
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmrona&show_icons=true&theme=dark" alt="jmrona's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrona&show_icons=true&locale=en&layout=compact&theme=dark" alt="jmrona's top languages" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jmrona"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jmrona" /></a></p><br><br><br>
+---
 
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/jmrona" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jm_rona" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
-![](https://hit.yhype.me/github/profile?user_id=32115263)
+---
+
+## ☕ Support My Work
+<a href="https://www.buymeacoffee.com/jmrona" target="blank">
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+</a>
+
+<br><br>
+
+![Profile views counter](https://hit.yhype.me/github/profile?user_id=32115263)
