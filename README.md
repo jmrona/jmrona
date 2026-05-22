@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmrona&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jmrona's GitHub stats" />
-</a>
-
----
-
 ## 🔗 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/jmrona" target="blank">
