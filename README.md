@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmrona&label=Profile%20views&color=0e75b6&style=flat" alt="jmrona" /> </p>
 
 * 👨‍ He/Him
-* 👨‍💻 Working at [Forth](https://forthwithlife.co.uk)
+* 👨‍💻 Working at [Future Publishing]([https://forthwithlife.co.uk](https://futureplc.com/))
 * 📫 Reach me **jm_rona@hotmail.com**
 
 
