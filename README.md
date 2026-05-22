@@ -27,13 +27,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmrona&show_icons=true&theme=dark" alt="jmrona's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrona&show_icons=true&locale=en&layout=compact&theme=dark" alt="jmrona's top languages" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmrona&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jmrona's GitHub stats" />
+</a>
 
 ---
 
